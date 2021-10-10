@@ -189,3 +189,4 @@ printf("Enter the number you want to find factorial of:");
  }
  printf("The FACTORIAL of %d is %d",n,factorial);
 }
+//further addition of functions needed
